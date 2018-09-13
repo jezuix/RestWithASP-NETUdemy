@@ -9,3 +9,14 @@ D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debu
 D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfo.cs
 D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
 D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.deps.json
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.json
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.dev.json
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csprojAssemblyReference.cache
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfo.cs
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+D:\Estudos\RestWithASP-NETUdemy\RestWithASPNETUdemy 01 - Calculator\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
